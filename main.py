@@ -20,7 +20,7 @@ openai.api_key = os.environ.get("OPENAI_KEY")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://lively-forest-09162750f.5.azurestaticapps.net"],
+    allow_origins=["https://purple-field-004ee730f.5.azurestaticapps.net"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
