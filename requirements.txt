@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+llama-index
+llama-index-llms-openai
+nltk
+pypdf
+scikit-learn
+openpyxl
+python-dotenv
+azure-storage-blob
